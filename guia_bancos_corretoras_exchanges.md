@@ -41,39 +41,34 @@ Exemplos: Binance, Mercado Bitcoin, OKX, Bitso.
 
 ---
 
-## 📊 Tabela Comparativa — 10 Corretoras no Brasil
+## 📊 Tabela Detalhada de Corretoras
 
-| 🏢 Corretora | 💰 Taxa de Corretagem | 💸 Custódia | 📱 Diferenciais | 🟢 Gratuita? |
-|---------------|----------------------|--------------|-----------------|---------------|
-| XP Investimentos | A partir de R$ 0,00 | Grátis | Acesso à assessoria XP e plataforma avançada | 🔶 Parcial |
-| BTG Pactual | R$ 0,00 | Grátis | Foco em clientes premium e produtos exclusivos | 🟢 Sim |
-| Rico | R$ 0,00 | Grátis | App intuitivo e integração com XP | 🟢 Sim |
-| NuInvest | R$ 0,00 | Grátis | Integrada ao Nubank, interface simples | 🟢 Sim |
-| Inter Invest | R$ 0,00 | Grátis | Acesso direto via app Banco Inter | 🟢 Sim |
-| ModalMais | R$ 0,00 | Grátis | Integrada ao Modal Bank | 🟢 Sim |
-| Clear Corretora | R$ 0,00 | Grátis | Sem taxas para day trade | 🟢 Sim |
-| Ágora | R$ 0,00 | Grátis | Ligada ao Bradesco | 🟢 Sim |
-| Toro Investimentos | R$ 0,00 | Grátis | Interface simples e recompensas em cashback | 🟢 Sim |
-| Genial Investimentos | R$ 0,00 | Grátis | Plataforma robusta e análises de mercado | 🟢 Sim |
+| 🏢 Corretora | 👤 Perfil Ideal | 💰 Custos | ⭐ Reputação |
+|--------------|-----------------|------------|--------------|
+| Inter | Todos, exceto traders | Não há | Boa |
+| BTG Pactual | Iniciantes em renda fixa e fundos | Taxa de corretagem (bolsa, cripto e exterior) | Ótima |
+| Ágora | Todos, exceto cripto e exterior | Não há | Ótima |
+| Rico | Todos, exceto cripto e exterior | Não há | Ótima |
+| Inter Global | Iniciantes no exterior | Somente spread cambial | Boa |
+| Nomad | Iniciantes no exterior | Somente spread cambial | Boa |
+| Binance | Avançado em cripto | Taxa de negociação | Boa |
+| Coinext | Iniciantes em cripto | Taxa de negociação | Boa |
 
-💡 **Conclusão:** Hoje, quase todas as corretoras grandes são **gratuitas** e competem por diferenciais em **usabilidade e suporte**.
+## 💳 Comparativo Detalhado de Contas Digitais
 
----
-
-## 💳 Principais Contas Digitais e Rendimento
-
-| 🏦 Banco Digital | 💵 Rendimento Automático | 📈 Indexador | 💰 Rendimento Médio Mensal* |
-|------------------|--------------------------|---------------|------------------------------|
-| Nubank | Sim | 100% do CDI | ~0,88% |
-| Inter | Sim | 100% do CDI | ~0,88% |
-| C6 Bank | Sim | 102% do CDI | ~0,90% |
-| PicPay | Sim | 102% do CDI (pode variar) | ~0,90% |
-| Mercado Pago | Sim | 100% do CDI | ~0,88% |
-| PagBank | Sim | 103% do CDI | ~0,91% |
-| Neon | Sim | 101% do CDI | ~0,89% |
-| Banco Original | Sim | 100% do CDI | ~0,88% |
-
-> *Valores aproximados com base na taxa CDI de 10,65% ao ano (out/2025).
+| 🏦 Banco | 💵 Rendimento Automático | 💳 Cartão | 🏧 Saques | ⭐ Reputação Reclame Aqui |
+|----------|-------------------------|------------|-----------|-------------------------|
+| C6 Bank | Não | Mastercard sem anuidade | 4 grátis/mês, depois R$ 6,50 | Regular (6-7) |
+| Next | Não | Visa sem anuidade | 4 grátis/mês, depois R$ 3,10 | Ótima (8-9) |
+| Nubank | Sim (100% CDI) | Mastercard sem anuidade | R$ 6,50 | Ótima (8-9) |
+| Inter | Não | Mastercard sem anuidade | 4 grátis/mês, depois R$ 5,90 | Boa (7-8) |
+| Picpay | 102% CDI após 30 dias | Visa/Mastercard | R$ 7,90 por saque | Boa (7-8) |
+| BMG | Não | Mastercard sem anuidade | 4 grátis/mês, depois R$ 5,00 | Ótima (8-9) |
+| Mercado Pago | Sim (100% CDI) | Visa sem anuidade | R$ 5,90 | Boa (7-8) |
+| BTG Pactual | Não | Mastercard sem anuidade | 8 grátis/mês, depois R$ 2,20 | Ótima (8-9) |
+| Rico | Não | Visa sem anuidade | 4 grátis/mês, depois R$ 5,00 | Ótima (8-9) |
+| Pan | Sim (100% CDI) | Elo sem anuidade | 4 grátis/mês, depois R$ 15,00 | Boa (7-8) |
+| Pagbank | Sim (100% CDI) | Visa sem anuidade | R$ 7,50 | Ótima (8-9) |
 
 ---
 

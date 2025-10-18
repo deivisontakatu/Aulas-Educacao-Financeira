@@ -91,72 +91,10 @@ Exemplos:
 
 ---
 
-## 🏦 Diferença entre bancos tradicionais e digitais
-
-| Aspecto | Bancos Tradicionais | Bancos Digitais |
-|----------|--------------------|-----------------|
-| **Atendimento** | Presencial, com agências físicas | 100% online |
-| **Custos** | Tarifas e taxas mais altas | Muitos serviços gratuitos |
-| **Abertura de conta** | Processo burocrático | Rápido e sem papelada |
-| **Rendimento da conta** | Geralmente 0% | Algumas rendem 100% do CDI |
-
----
-
-## 📊 Principais contas digitais e seus rendimentos
-
-| Banco Digital | Rendimento da Conta | Observações |
-|----------------|---------------------|--------------|
-| **Nubank** | 100% do CDI | Rendimento diário automático |
-| **Inter** | Até 100% do CDI | Sem tarifas básicas |
-| **PicPay** | 102% do CDI (varia) | Rendimento automático |
-| **C6 Bank** | 100% do CDI | Cartão sem anuidade |
-| **PagBank** | 105% do CDI | Rende automaticamente |
-| **Next** | Não rende automaticamente | Vinculado ao Bradesco |
-| **BTG+** | 100% do CDI | Conta integrada a investimentos |
-
----
-
-## 🏛️ O que são corretoras de valores?
-
-São **instituições financeiras autorizadas pelo Banco Central e pela CVM** que intermediam investimentos entre o investidor e o mercado (B3, fundos, títulos, etc.).
-
-### Vantagens sobre os bancos:
-- Mais opções de produtos financeiros  
-- Taxas menores ou inexistentes  
-- Acesso a títulos de **vários bancos e gestoras**
-
----
-
-## 💼 Comparativo de 10 corretoras
-
-| Corretora | Taxa de Corretagem | Custódia | Diferenciais | É gratuita? |
-|------------|-------------------|-----------|---------------|--------------|
-| **XP Investimentos** | R$ 0 a R$ 18,90 | Grátis | Plataforma completa e assessoria | Parcial |
-| **BTG Pactual Digital** | R$ 0 | Grátis | Acesso a fundos exclusivos | ✅ |
-| **Rico** | R$ 0 | Grátis | Foco em iniciantes | ✅ |
-| **Clear** | R$ 0 | Grátis | Sem taxas em ações e FII | ✅ |
-| **Inter Invest** | R$ 0 | Grátis | Integrado ao Banco Inter | ✅ |
-| **NuInvest** | R$ 0 | Grátis | Vinculado ao Nubank | ✅ |
-| **Toro Investimentos** | R$ 0 | Grátis | Interface simples e cashback | ✅ |
-| **Modal** | R$ 0 | Grátis | Educação financeira integrada | ✅ |
-| **Orama** | R$ 0 | Grátis | Foco em renda fixa e fundos | ✅ |
-| **BTB** | R$ 0 | Grátis | Plataforma de CDBs e LCIs | ✅ |
-
----
-
 ## 📚 Glossário de Termos Financeiros
 
 | Termo | Significado |
 |-------|--------------|
-| **SELIC** | Taxa básica de juros da economia. Influencia todos os investimentos de renda fixa. |
-| **CDI (Certificado de Depósito Interbancário)** | Taxa usada como referência para investimentos como CDB e contas digitais. |
-| **IPCA (Índice de Preços ao Consumidor Amplo)** | Mede a inflação oficial do país. |
-| **CDB (Certificado de Depósito Bancário)** | Título emitido por bancos que paga juros ao investidor. |
-| **LCI/LCA** | Títulos isentos de IR, lastreados no setor imobiliário (LCI) e agrícola (LCA). |
-| **Liquidez Diária** | Permite resgate do dinheiro a qualquer momento. |
-| **Fundo de Investimento** | Aplicação coletiva com gestão profissional. |
-| **Ações Ordinárias (ON)** | Dão direito a voto nas assembleias. |
-| **Ações Preferenciais (PN)** | Dão prioridade na distribuição de dividendos. |
 | **Units** | Pacotes que combinam ON e PN de uma mesma empresa. |
 | **Dividend Yield** | Mede o quanto uma ação paga em dividendos sobre seu preço. |
 | **ROE (Return on Equity)** | Retorno sobre o patrimônio líquido da empresa. |

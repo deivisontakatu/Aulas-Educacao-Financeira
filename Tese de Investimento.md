@@ -6,7 +6,7 @@ A metodologia “do macro para o micro” é amplamente usada por analistas e ge
 
 ## 🧭 1. Análise Macroeconômica — o contexto geral
 
-Começa-se avaliando condições econômicas, políticas e sociais que podem impactar o desempenho do setor-alvo.
+Começa avaliando condições econômicas, políticas e sociais que podem impactar o desempenho do setor-alvo.
 
 No caso de um programa governamental para incentivar a construção civil, alguns pontos-chave seriam:
 
